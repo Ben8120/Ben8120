@@ -1,6 +1,8 @@
-### Hi there 👋! I am currently available for work! :malaysia: :singapore:
+### Hi there 👋! I am currently available for work! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben8120)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben8120&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben8120)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ben8120/Ben8120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
