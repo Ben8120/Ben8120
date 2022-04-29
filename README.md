@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I am currently available for work! :malaysia: :singapore:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben8120)](https://github.com/anuraghazra/github-readme-stats)
 
