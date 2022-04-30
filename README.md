@@ -1,4 +1,26 @@
 ### Hi there 👋! I am currently available for work! 
+A Software Engineer from Malaysia!
+
+#### Proficiency
+ - Android 
+   - Kotlin
+   - Jetpack Compose
+ - iOS (Swift)
+ - Cross Platform Mobile Apps
+   - React Native
+   - Flutter
+ - Web
+   - asp.net
+   - React.JS
+ - Backend
+   - .NET Core 5
+   - RESTful APIs
+   - Axios
+   - Firebase
+ - Games
+   - Unity
+   - GDScript
+  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ben8120&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
