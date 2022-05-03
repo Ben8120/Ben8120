@@ -1,7 +1,9 @@
-## Hi there 👋! I am currently available for work! 
-A Software Engineer from Malaysia!
+## Hi there 👋! 
 
-### Proficiency
+_Words to live by_
+> "Programming isn't about what you know; it's about what you can figure out.” *- Chris Pine*
+
+
 ### 📱 Mobile
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)     ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
