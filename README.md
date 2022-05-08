@@ -1,5 +1,10 @@
 ## Hi there 👋! 
 
+
+ - I am an **application developer** that specializes in mobile applications and web development.
+ - For native mobile, I have experience on **Kotlin** and **Swift**, as for cross-platform, **Flutter** and **React Native**.
+ - As for web, I have done some projects with **asp.net** and **React.JS**.
+
 _Words to live by_
 > "Programming isn't about what you know; it's about what you can figure out.” *- Chris Pine*
 
