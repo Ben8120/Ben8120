@@ -29,7 +29,7 @@ _Words to live by_
 ### 🎮 Games Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)  
 
-### Blockchain
+### 🔗 Blockchain
 ![solidity - v0.6.12](https://img.shields.io/badge/solidity-v0.6.12-2ea44f?logo=solidity)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ben8120&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
