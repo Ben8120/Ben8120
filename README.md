@@ -32,6 +32,9 @@ _Words to live by_
 ### 🔗 Blockchain
 ![solidity - v0.6.12](https://img.shields.io/badge/solidity-v0.6.12-2ea44f?logo=solidity)
 
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ben8120&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben8120&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
