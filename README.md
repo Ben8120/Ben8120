@@ -45,7 +45,7 @@ _Words to live by_
 
 ## Current Projects
 - Github Pages (personal landing page)
-- Chrome Extension for Productivity
+- Chrome Extension for Productivity (Potato Productivity!)
 
 <!--
 **Ben8120/Ben8120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
